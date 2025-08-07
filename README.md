@@ -4,7 +4,6 @@ Finny is a Discord bot designed to make **personal finance tracking, goal-settin
 
 ## Table of Contents
 
-- [Demo & Screenshots](#demo--screenshots)
 - [Features](#features)
 - [How it Works](#how-it-works)
 - [Setup & Installation](#setup--installation)
@@ -15,10 +14,6 @@ Finny is a Discord bot designed to make **personal finance tracking, goal-settin
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Demo & Screenshots
-
-*(Insert animated GIFs/screenshots of key commands, like the spend-game, setting goals, leaderboard, etc.)*
 
 ## Features
 
